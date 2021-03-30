@@ -1,0 +1,13 @@
+c:\users\dell\documents\visual studio 2015\Projects\Scientific_Calculator\Scientific_Calculator\bin\Debug\Scientific_Calculator.exe.config
+c:\users\dell\documents\visual studio 2015\Projects\Scientific_Calculator\Scientific_Calculator\bin\Debug\Scientific_Calculator.exe
+c:\users\dell\documents\visual studio 2015\Projects\Scientific_Calculator\Scientific_Calculator\bin\Debug\Scientific_Calculator.pdb
+c:\users\dell\documents\visual studio 2015\Projects\Scientific_Calculator\Scientific_Calculator\obj\Debug\Scientific_Calculator.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2015\Projects\Scientific_Calculator\Scientific_Calculator\obj\Debug\Scientific_Calculator.Form1.resources
+c:\users\dell\documents\visual studio 2015\Projects\Scientific_Calculator\Scientific_Calculator\obj\Debug\Scientific_Calculator.Properties.Resources.resources
+c:\users\dell\documents\visual studio 2015\Projects\Scientific_Calculator\Scientific_Calculator\obj\Debug\Scientific_Calculator.csproj.GenerateResource.Cache
+c:\users\dell\documents\visual studio 2015\Projects\Scientific_Calculator\Scientific_Calculator\obj\Debug\Scientific_Calculator.exe
+c:\users\dell\documents\visual studio 2015\Projects\Scientific_Calculator\Scientific_Calculator\obj\Debug\Scientific_Calculator.pdb
+C:\Users\Dell\documents\visual studio 2015\Projects\Scientific_Calculator\Scientific_Calculator\bin\Debug\Scientific_Calculator.exe.manifest
+C:\Users\Dell\documents\visual studio 2015\Projects\Scientific_Calculator\Scientific_Calculator\bin\Debug\Scientific_Calculator.application
+C:\Users\Dell\documents\visual studio 2015\Projects\Scientific_Calculator\Scientific_Calculator\obj\Debug\Scientific_Calculator.exe.manifest
+C:\Users\Dell\documents\visual studio 2015\Projects\Scientific_Calculator\Scientific_Calculator\obj\Debug\Scientific_Calculator.application
